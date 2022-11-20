@@ -1,3 +1,3 @@
-#Git Demo
+# Git Demo
 
 Learn how to use git.
